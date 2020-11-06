@@ -46,10 +46,6 @@ echo
 		<input type="text" name="zip">
 		<br><br>
 
-		<label for="zip">Zip Code</label>
-		<input type="text" name="zip">
-		<br><br>
-
 		<label for="phone">Phone Number</label>
 		<input type="number" name="phone">
 		<br><br>
